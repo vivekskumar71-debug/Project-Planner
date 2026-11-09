@@ -1,0 +1,21 @@
+### admin login
+
+POST http://127.0.0.1:8000/login/
+Content-Type: application/json
+
+{
+    "username":"admin",
+    "password":"admin"
+}
+
+### coordinator login
+
+POST http://127.0.0.1:8000/login/
+Content-Type: application/json
+
+{
+    "username" : "mayachen4821",
+    "password" : "FA36KS02_cQ_H5mcEWviUEzQ"
+
+}
+
